@@ -1,0 +1,19 @@
+Estructuras de datos
+1 - Objetos -> Coleccion de información conformada por una llave y un valor, que agrupa inforción de un mismto contenido o elemento
+    POO -> Programación Orientada a Objetos
+        Literal
+        Constructor
+        Clase
+
+Un objetos tiene propiedades y comportamientos
+    Propiedad: -> Una descripción característica
+        llave:valor(tipo de dato)
+    Comportamiento: Es un accion que hace el Objetos
+        llave:valor(funcion)
+
+TypeScript - NodeJS
+    src
+        DTO
+        Repository
+        DATA
+            Herencias, Polimorifmos, Abstracciones, Encapuslamientos
