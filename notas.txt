@@ -11,6 +11,8 @@ Un objetos tiene propiedades y comportamientos
     Comportamiento: Es un accion que hace el Objetos
         llave:valor(funcion)
 
+this
+
 TypeScript - NodeJS
     src
         DTO

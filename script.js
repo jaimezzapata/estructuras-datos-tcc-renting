@@ -18,18 +18,19 @@
 // estudiante.estudiar()
 // }
 
-let nombre = prompt('Ingrese su nombre: ')
+// let nombre = prompt('Ingrese su nombre: ')
 let edad = prompt('Ingrese su edad: ')
 const persona = {
-    nombre, edad,
+    nombre: 'Jaime', edad,
     caminar: function () {
-        console.log('Caminando..')
+        console.log(`La persona ${this.nombre} está caminando...`)
     },
     dormir: () => {
-        console.log('Durmiendo...')
+        console.log(`La persona ${this.nombre} está durmiendo...`)
     }
+    /* CallBacks */
 }
-console.log(`Esta persona se llama: ${persona.nombre}`)
-console.log(`Esta persona tiene esta edad: ${persona.edad}`)
-persona.caminar()
+// console.log(`Esta persona se llama: ${persona.nombre}`)
+// console.log(`Esta persona tiene esta edad: ${persona.edad}`)
+// persona.caminar()
 persona.dormir()
