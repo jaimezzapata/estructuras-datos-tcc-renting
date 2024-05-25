@@ -19,3 +19,17 @@ TypeScript - NodeJS
         Repository
         DATA
             Herencias, Polimorifmos, Abstracciones, Encapuslamientos
+
+
+Desestructuracion de Objetos
+    -> Eliminar la dependencia de atributos de un objeto
+
+
+2 - Arreglos -> Conjunto de datos (cualquier tipo de dato) conformado por una posición y un valor. Se puede considerar una estructura de almacenamiento de datos ("Base de datos"). Solo un manejo Local (no tiene persistencia de datos)
+
+Los arreglos o vectores tienen dos partes
+    Longitud o tamaño: La cantidad de elementos dentro del arreglo
+        Se dfine por cualquier numero entero n, donde n tiene un valor
+    Posicion: Atributo de acceso al contenido
+        Se define por un numero entero n, donde siempre el valor será n-1
+            SIEMPRE se inicia en 0
