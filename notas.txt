@@ -33,3 +33,24 @@ Los arreglos o vectores tienen dos partes
     Posicion: Atributo de acceso al contenido
         Se define por un numero entero n, donde siempre el valor será n-1
             SIEMPRE se inicia en 0
+
+Ciclo - Bucle - Estrucutura de repetición
+    For, While, Do-While
+
+Métodos de los arreglos -> ES6+
+    25 métodos de los arreglos categorizados
+
+    Métodos de Modificación -> Manipulan el arreglo original (información)
+        -> pop(): Elimina SIEMPRE la ultima posición o último elemento de un arreglo 
+        -> shift(): Elimina SIEMPRE la primera posición o primer elemento de un arreglo
+        -> push(): Agrega un nuevo valor en la ultima posicion de un arreglo
+        -> unShift(): Agrega un nuevo valor en la primera posicion de un arreglo
+            Métodos con parámetros "Simples"
+
+    Métodos de Busqueda (función anónima)
+    Métodos de Iteración (función anónima)
+        -> map(): Recorrido el arreglo y retorna uno nuevo con los valores resultantes
+        -> filter(): Recorrido el arreglo y retorna uno nuevo con los valores resultantes que cumplan con una condicion dada
+        -> forEach(): Recorrido el arreglo y muestra los valores resultantes
+        -> find(): Recorrido el arreglo y retorna uno nuevo con el valor resultante que cumpla con una condicion dada
+    Métodos de comparación (función anónima)
